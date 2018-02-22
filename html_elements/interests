@@ -1,0 +1,9 @@
+<div>
+	<h1 align="center">Interests</h1>
+</div>
+<div class="interests">
+	<div class="part"><div class="img"><img src="images/google.jpg" class="round"></div><p>Googling</p></div>
+	<div class="part"><div class="img"><img src="images/competitive3.png" class="round"></div><p>Competitive<br>Programming</p></div>	
+	<div class="part"><div class="img"><img src="images/coding.png" class="round"></div><p>Development</p></div>
+	<div class="part"><div class="img"><img src="images/sn_logo.jpg" class="round"></div><p>CS : GO</p></div>
+</div>

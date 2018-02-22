@@ -1,0 +1,28 @@
+<div class="info">
+<table>
+	<tr>
+		<th>Name:</th>
+		<td>Piyush Sethia</td>
+	</tr>
+	<tr>
+		<th>Currently:</th>
+		<td>Student at <a href="https://www.iitr.ac.in"><abbr title="Indian Institute of Roorkee">IITR</abbr></a></td>
+	</tr>
+	<tr>
+		<th>Branch:</th>
+		<td>Computer Science and Engineering</td>
+	</tr>
+	<tr>
+		<th>Description:</th>
+		<td>Developer at <abbr title="Software Development Section Labs"><a href="www.sdslab.co">SDSLabs</a></abbr><br/>Programmer at <abbr title="Programming and Algorithmic Group"><a href="https://pag.sdslabs.co">PAG</a></abbr></td>
+	</tr>
+	<tr>
+		<th>Experience in:</th>
+		<td>C++,Java,HTML5,CSS,Javascript,PHP</td>
+	</tr>
+	<tr>
+		<th>About Me:</th>
+		<td class="full">Thirst to Learn >>>>>> Thirst to Live</td>
+	</tr>
+</table>
+</div>
